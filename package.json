@@ -1,0 +1,24 @@
+{
+  "name": "southwest",
+  "version": "0.0.0",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "~4.9.0",
+    "express-jwt": "^3.0.0",
+    "express-session": "~1.0.2",
+    "aws-sdk": ">= 2.0.9",
+    "node-uuid": ">= 1.4.1",
+    "http": "^0.0.0",
+    "open": "^0.0.5",
+    "socket.io": "^1.0.6",
+    "socket.io-client": "^1.0.6",
+    "body-parser": "~1.9.2",
+    "request":"2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
