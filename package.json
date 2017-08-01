@@ -4,6 +4,7 @@
   "main": "server.js",
   "dependencies": {},
   "devDependencies": {
+    "node-redshift":"0.1.5",
     "express": "~4.9.0",
     "express-jwt": "^3.0.0",
     "express-session": "~1.0.2",
